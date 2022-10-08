@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "995243e43b8feb96",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a21115f4bd57145",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Figma阴影.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a9a4cf24bd9297a",
+    "type": "split",
+    "children": [
+      {
+        "id": "399dd7d72be6d7f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a99a63d8457c393",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e7ad2577dd462bc7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65732d06f8661c7b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02b04cdbc5cfa591",
+    "type": "split",
+    "children": [
+      {
+        "id": "0658dcf2593285a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01103c8cf14677cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Figma阴影.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a878828432915ea7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Figma阴影.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b272cd54123a73ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ec4415b3fd753dad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Figma阴影.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1a99a63d8457c393",
+  "lastOpenFiles": [
+    "Figma阴影.md"
+  ]
+}
