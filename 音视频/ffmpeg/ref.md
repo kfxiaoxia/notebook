@@ -11,3 +11,7 @@ http://debugly.cn/FFmpegTutorial/
 [ffplay.c源码阅读之拉流模块实现原理(二)](https://www.jianshu.com/p/11c4f7d34048)
 
 [S03E09： RGB 与YUV 转换矩阵的几何含义](https://juejin.cn/post/6948613610549542919)
+
+[视频 YUV 理解](https://juejin.cn/post/7045564248256659493)
+
+[FFmpegTutorial](https://github.com/debugly/FFmpegTutorial)
