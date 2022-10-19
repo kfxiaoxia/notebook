@@ -21,3 +21,5 @@ http://debugly.cn/FFmpegTutorial/
 [ YCbCr与YUV的区别](https://blog.csdn.net/machh/article/details/51799403)
 
 [伽马校正 Gamma Correction](https://zhuanlan.zhihu.com/p/33637724)
+
+#ffmpeg #音视频 #YUV
