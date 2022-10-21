@@ -22,4 +22,6 @@ http://debugly.cn/FFmpegTutorial/
 
 [伽马校正 Gamma Correction](https://zhuanlan.zhihu.com/p/33637724)
 
+[ Metal与图形渲染入门篇：绘制图片](https://www.jianshu.com/p/4df8be38f845)
+
 #ffmpeg #音视频 #YUV
