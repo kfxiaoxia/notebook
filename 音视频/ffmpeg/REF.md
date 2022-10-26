@@ -1,4 +1,4 @@
-http://debugly.cn/FFmpegTutorial/
+[FFmpegTutorial](http://debugly.cn/FFmpegTutorial/)
 
 [YUV数据分析](https://ffmpeg.xianwaizhiyin.net/base-knowledge/raw-yuv-data.html)
 
